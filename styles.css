@@ -1,0 +1,22 @@
+.seccion {
+    background-color: darkslategrey;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo{
+    background-color: white;
+    padding: 1rem;
+}
+
+.parrafo.draggin {
+    opacity: 0.3;
+}
+
+#papelera {
+    background-color: white;
+}
+img {
+    display: block;
+    margin: auto;
+}
